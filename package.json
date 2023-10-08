@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ogr2ogr": "^4.0.0"
+  }
+}
